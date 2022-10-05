@@ -1,0 +1,5 @@
+2020/08/14-08:13:48.524 8860 Reusing MANIFEST D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Release\WhatSmart.exe.WebView2\EBWebView\Default\IndexedDB\https_cardapio.anota.ai_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/14-10:10:59.362 5c78 Level-0 table #5: started
+2020/08/14-10:10:59.403 5c78 Level-0 table #5: 1725 bytes OK
+2020/08/14-10:10:59.459 5c78 Delete type=0 #3
+2020/08/14-10:10:59.459 5c78 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

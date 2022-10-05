@@ -1,0 +1,64 @@
+C:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\WebView2Loader.dll
+C:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\WhatSmart.exe.config
+C:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\WhatSmart.exe
+C:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\WhatSmart.pdb
+C:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.Form1.resources
+C:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.Properties.Resources.resources
+C:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.csproj.GenerateResource.cache
+C:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.csproj.CoreCompileInputs.cache
+C:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.csproj.CopyComplete
+C:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.exe
+C:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.pdb
+C:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.csprojAssemblyReference.cache
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\WebView2Loader.dll
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\WhatSmart.exe.config
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\WhatSmart.exe
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\WhatSmart.pdb
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.csprojAssemblyReference.cache
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.Form1.resources
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.Properties.Resources.resources
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.csproj.GenerateResource.cache
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.csproj.CoreCompileInputs.cache
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.csproj.CopyComplete
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.exe
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.pdb
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\Microsoft.Edge.SeleniumTools.dll
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\WebDriver.dll
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\WebDriver.xml
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\Documentos GVD\whatsapp\WhatSmart\WhatSmart\bin\Debug\Newtonsoft.Json.xml
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\bin\Debug\WebView2Loader.dll
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\bin\Debug\WhatSmart.exe.config
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\bin\Debug\WhatSmart.exe
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\bin\Debug\WhatSmart.pdb
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\bin\Debug\Microsoft.Edge.SeleniumTools.dll
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\bin\Debug\Newtonsoft.Json.dll
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\bin\Debug\WebDriver.dll
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\bin\Debug\Newtonsoft.Json.xml
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\bin\Debug\WebDriver.xml
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.csprojAssemblyReference.cache
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.Form1.resources
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.Properties.Resources.resources
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.csproj.GenerateResource.cache
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.csproj.CoreCompileInputs.cache
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.csproj.CopyComplete
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.exe
+D:\Drivergoogle\GVD Soluções Inteligentes\whatsapp\WhatSmart\WhatSmart\obj\Debug\WhatSmart.pdb

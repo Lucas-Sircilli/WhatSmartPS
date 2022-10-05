@@ -1,0 +1,45 @@
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\bin\Release\WebView2Loader.dll
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\bin\Release\WhatSmart.exe.config
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\bin\Release\WhatSmart.exe
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\bin\Release\WhatSmart.pdb
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\bin\Release\Microsoft.Edge.SeleniumTools.dll
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\bin\Release\Microsoft.Web.WebView2.Core.dll
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\bin\Release\Microsoft.Web.WebView2.WinForms.dll
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\bin\Release\Microsoft.Web.WebView2.Wpf.dll
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\bin\Release\Newtonsoft.Json.dll
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\bin\Release\WebDriver.dll
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\bin\Release\Microsoft.Web.WebView2.Core.xml
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\bin\Release\Microsoft.Web.WebView2.WinForms.xml
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\bin\Release\Microsoft.Web.WebView2.Wpf.xml
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\bin\Release\Newtonsoft.Json.xml
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\bin\Release\WebDriver.xml
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\obj\Release\WhatSmart.Form1.resources
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\obj\Release\WhatSmart.Properties.Resources.resources
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\obj\Release\WhatSmartPS.csproj.GenerateResource.cache
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\obj\Release\WhatSmartPS.csproj.CoreCompileInputs.cache
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\obj\Release\WhatSmartPS.csproj.CopyComplete
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\obj\Release\WhatSmart.exe
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\obj\Release\WhatSmart.pdb
+D:\OneDriver\OneDrive\GVDSolucoes\whatsappPs\WhatSmartPS\WhatSmart\obj\Release\WhatSmartPS.csprojAssemblyReference.cache
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\bin\Release\WebView2Loader.dll
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\bin\Release\WhatSmart.exe.config
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\bin\Release\WhatSmart.exe
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\bin\Release\WhatSmart.pdb
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\bin\Release\Microsoft.Edge.SeleniumTools.dll
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\bin\Release\Microsoft.Web.WebView2.Core.dll
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\bin\Release\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\bin\Release\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\bin\Release\Newtonsoft.Json.dll
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\bin\Release\WebDriver.dll
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\bin\Release\Microsoft.Web.WebView2.Core.xml
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\bin\Release\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\bin\Release\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\bin\Release\Newtonsoft.Json.xml
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\bin\Release\WebDriver.xml
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\obj\Release\WhatSmartPS.csproj.AssemblyReference.cache
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\obj\Release\WhatSmart.Form1.resources
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\obj\Release\WhatSmart.Properties.Resources.resources
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\obj\Release\WhatSmartPS.csproj.GenerateResource.cache
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\obj\Release\WhatSmartPS.csproj.CoreCompileInputs.cache
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\obj\Release\WhatSmart.exe
+C:\Users\Desenvolvimento 01\source\repos\WhatSmartPS\WhatSmart\obj\Release\WhatSmart.pdb
